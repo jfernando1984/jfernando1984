@@ -1,6 +1,6 @@
 # Olá 👋🏾
 
-Sejam bem vindos ao meu espaço. Atualmente eu estou em transição de carreira, eu estudo pela plataforma DIO. Tenho expectativa de crescimento profissional, satisfazendo as expectativas do meu recrutador. 
+Sejam bem vindos ao meu espaço. Atualmente eu estou em transição de carreira, eu estudo pela plataforma DIO. Tenho expectativa de crescimento profissional, satisfazendo as expectativas do meu recrutador ou cliente. 
 
 - 🔭 Atualmente estou trabalhando na Área de Suporte Técnico, meu primeiro contato com Computador foi em 1997. Então eu amo Computadores e Tecnologia. 
 - 🌱 Atualmente estou aprendendo GitHub, e pretendo aprender Front End com React e Back End com Phyton. Como eu fiz Curso Técnico em Informática 2013/2014, então eu tive algum contato com Programação. Então não é um mundo tão estranho pra mim e espero aprender muito por aqui.
