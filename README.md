@@ -3,7 +3,7 @@
 Sejam bem vindos ao meu espaço. Atualmente eu estou em transição de carreira, eu estudo pela plataforma DIO. Tenho expectativa de crescimento profissional, satisfazendo as expectativas do meu recrutador ou cliente. 
 
 - 🔭 Atualmente estou trabalhando na Área de Suporte Técnico, meu primeiro contato com Computador foi em 1997. Então eu amo Computadores e Tecnologia. 
-- 🌱 Atualmente estou aprendendo GitHub, e pretendo aprender Front End com React e Back End com Phyton. Como eu fiz Curso Técnico em Informática 2013/2014, então eu tive algum contato com Programação. Então não é um mundo tão estranho pra mim e espero aprender muito por aqui.
+- 🌱 Atualmente estou fazendo cursos na  plataforma [DIO](https://www.dio.me/), e inicialmente pretendo aprender Front End com React e Back End com Phyton. Como eu fiz Curso Técnico em Informática 2013/2014, então eu tive algum contato com Programação. Então não é um mundo tão estranho pra mim, e espero aprender muito por aqui.
 - [Meu LinkedIn](https://www.linkedin.com/in/josefernando1984/)
 - [Wiki da minha personalização no Linux](https://github.com/jfernando1984/linux-meus-projetos/wiki/Meus-Projetos-Linux-%E2%80%90-Meu-primeiro-Wiki-e-minha-primeira-colabora%C3%A7%C3%A3o-no-GitHub)
 <!--- 👯 Estou procurando colaborar em...
